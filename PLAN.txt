@@ -1,0 +1,5 @@
+0.  Prep some files of the word list from GitHub
+1.  Develop a script that solves wordle problems in the console
+1.5 Make sure I use Git alongthe way
+2.  Implement a hard mode
+3.  Implement a chrome extension
